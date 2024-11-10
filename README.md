@@ -1,2 +1,2 @@
-# Prompt-IDE-xAI
-This is clone version of PromptIDE by X
+# Prompt IDE from xAI
+This is replicated version of PromptIDE by X
